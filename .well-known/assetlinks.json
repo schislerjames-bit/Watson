@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.schislerfamilystudios.watson",
-        "sha256_cert_fingerprints": ["FD:6E:1A:34:55:C5:6F:BB:03:76:A5:5B:E1:AE:0D:6C:6B:84:79:90:C0:F7:01:9F:E5:FB:04:48:FD:0C:15:98"]
+        "sha256_cert_fingerprints": ["4F:FB:D9:8E:4D:38:55:92:18:70:47:10:E5:D5:94:36:5D:68:BC:D1:FB:E1:44:BE:78:8C:A1:A7:4A:EA:AF:14"]
       }
     }]
